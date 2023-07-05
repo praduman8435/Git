@@ -1,7 +1,7 @@
 # Introduction to Linux
 
-## Table of Contents
 
+## Table of Contents
 1. [Basic Linux Commands](#basic-linux-commands)
 2. [File Operations](#file-operations)
 3. [Text Editing](#text-editing)
