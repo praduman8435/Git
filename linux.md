@@ -1,7 +1,5 @@
 # Introduction to Linux
 
-Linux is an open-source operating system known for its stability, security, and flexibility. It is widely used in various domains, including servers, embedded systems, and desktop computers. This guide provides an overview of Linux and introduces you to essential commands and concepts.
-
 ## Table of Contents
 
 1. [Basic Linux Commands](#basic-linux-commands)
@@ -227,4 +225,3 @@ zip <archive.zip> <file/directory>
 unzip <archive.zip>
 ```
 
-### This guide covers a range of fundamental Linux commands and concepts.
